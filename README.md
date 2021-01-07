@@ -1,0 +1,1 @@
+opening text editor
