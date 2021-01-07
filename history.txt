@@ -1,0 +1,52 @@
+    1  ls
+    2  ls
+    3  clear
+    4  cd Desktop
+    5  ls
+    6  clear
+    7  mkdir git-basic-eercises
+    8  cd git-basic-eercises/
+    9  ls
+   10  git init
+   11  git status
+   12  touch README.md
+   13  git status
+   14  git add README.md 
+   15  git commit -m "initial commit"
+   16  git log
+   17  nano README.md 
+   18  CAT README.md 
+   19  GIT STATUS
+   20  git status
+   21  git stats
+   22  git add README.md 
+   23  git log
+   24  git commit -m "second commit"
+   25  git log
+   26  git status
+   27  nano README.md 
+   28  git commit -m "third commit"
+   29  git add README.md 
+   30  git commit -m "third commit"
+   31  git log
+   32  git checkout ebd4aaafa7fdc5bdca951c29b2a90444b73059f1
+   33  cat README.md 
+   34  git checkout main
+   35  git checkout master
+   36  cat README.md 
+   37  git branch
+   38  git checkout -b second_branch
+   39  git branch -d second_branch
+   40  git branch -m milkshake-flavours
+   41  git branch
+   42  nano milkshakes.md
+   43  git status
+   44  git commit -m "added initial flavours"
+   45  git add .
+   46  git commit -m "added initial flavours"
+   47  git log
+   48  git checkout master
+   49  git checkout -b history
+   50  git log
+   51  git branch
+   52  history > history.txt
